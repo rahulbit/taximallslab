@@ -38,7 +38,7 @@ let deleteslab =(req, res)=>{
 
 
 
-//  function  for settingg the slabdata by admin
+//  function  to set the slabdata by admin
 
 let postslabdata =(req, res)=>{
 
